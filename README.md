@@ -3,24 +3,19 @@ This is a simple test run of a repository for a "hello world" python program
 
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is a simple test repository for me to help aquaint myself with GitHub.
 
-{Provide a description of your software}
+My software in this repository is a simple Python "hello world" program.
 
-{Describe your purpose for creating this software.}
+Hello world is a simple and easy way to test functionality or to start learning the essentials of programming.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+Here's a link to a demonstration of the program: https://www.youtube.com/watch?v=Z8k864eeN58
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
+I used VS Code and Pythong
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* YouTube
+* GitHub
