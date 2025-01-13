@@ -13,7 +13,7 @@ Here's a link to a demonstration of the program: https://www.youtube.com/watch?v
 
 # Development Environment
 
-I used VS Code and Pythong
+I used VS Code and Python
 
 # Useful Websites
 
